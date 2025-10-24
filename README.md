@@ -157,7 +157,7 @@ Permite interconectar dispositivos en red y acceso a internet, usado como infrae
 ### ⚙️**2.6)Switch Cisco 48 puertos**
 
 📸 **Imagen del dispositivo:**  
-![Linksys Cisco](./Router.jpg)
+![Switch Cisco 48 puertos](./Switch.jpg)
 Conmutador de red para conectar múltiples dispositivos.
 
 **Protocolos de comunicación:**  
