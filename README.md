@@ -59,7 +59,7 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
 
 ### **2.1) UP² Board (placa pequeña)**
 📸 **Imagen del dispositivo:** 
-![Analizador de energía](WhatsApp_Image_2025-10-23_at_21.57.29_2f705b10.jpg) 
+![Analizador de energía]() 
 
 **Protocolos de comunicación:** 
 - Ethernet
