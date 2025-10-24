@@ -57,7 +57,7 @@ Estas nuevas categorías mejoran la **velocidad, sincronización y confiabilidad
 
 A continuación, se detallan los dispositivos observados en el laboratorio, cada uno con su descripción, protocolo de comunicación y características principales.
 
-### ⚙️**2.1) UP² Board (placa pequeña)**
+### ⚙️**2.1) UP² Board **
 📸 **Imagen del dispositivo:** 
 ![UP² Board](Placa_UP.jpg) 
 
