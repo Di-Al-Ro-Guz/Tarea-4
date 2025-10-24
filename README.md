@@ -59,7 +59,7 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
 
 ### **2.1) UP² Board (placa pequeña)**
 📸 **Imagen del dispositivo:** 
-![Analizador de energía]() 
+![UP² Board](Placa_UP.jpg) 
 
 **Protocolos de comunicación:** 
 - Ethernet
@@ -77,7 +77,7 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 ### ⚙️ **2.2) Analizador de Redes Eléctricas**
 
 📸 **Imagen del dispositivo:**  
-![Analizador de energía](./coloca_aqui_imagen4.jpg)
+![Analizador de Redes](./Analisador_circutor.jpg)
 
 **Protocolos de comunicación:**  
 - Modbus RTU (RS-485)  
@@ -96,7 +96,7 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 
 📸 **Imagen del dispositivo:**  
 *(Colocar aquí la imagen frontal del analizador de calidad energética)*  
-![Analizador de energía](./coloca_aqui_imagen4.jpg)
+![Analizador de energía](./Analisador_calidad.jpg)
 **Protocolos de comunicación:**  
 - RS-485 (Modbus RTU)  
 - Ethernet (opcional según versión)  
@@ -112,7 +112,7 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 ### ⚙️ **2.4) SIMATIC HMI y PLC Siemens (S7-1200)**
 
 📸 **Imagen del dispositivo:**  
-![Analizador de energía](./coloca_aqui_imagen4.jpg)
+![Modulo de practicas PLC](./Modulo_PLC.jpg)
 
 **Protocolos de comunicación:**  
 - Profinet 
@@ -132,7 +132,7 @@ Controla y monitorea procesos industriales, comunica datos con sensores, actuado
 ### **2.5)Router Linksys Cisco**
 
 📸 **Imagen del dispositivo:**  
-![Analizador de energía](./coloca_aqui_imagen4.jpg)
+![Linksys Cisco](./Router.jpg)
 
 **Protocolos de comunicación:**  
 - Ethernet
