@@ -1,10 +1,10 @@
 # Tarea 4: 
 ---
-**Integrantes:**  Camila Perez Mercado, Santiago Hernandes Avila, Diego Alejandro Rodríguez Guzmán  
-**facultad de Ingeniería Electrónica*  
-**Universidad Santo Tomas**  
+### **Integrantes:**  - Camila Perez Mercado -Santiago Hernandes Avila -Diego Alejandro Rodríguez Guzmán  
+### Facultad de Ingeniería Electrónica  
+### Universidad Santo Tomas  
 ---
-## ** 1) Vigilancia Tecnológica de Tecnologías Industriales**
+## 1) Vigilancia Tecnológica de Tecnologías Industriales
 
 En la actualidad, la automatización industrial depende de una gran variedad de protocolos de comunicación que permiten la interconexión entre controladores, sensores, actuadores y sistemas de supervisión. Entre los más relevantes se encuentran **Modbus**, **AS-Interface (AS-I)** y las **categorías más recientes del Ethernet Industrial**.
 
@@ -68,6 +68,7 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
  
 **Características principales:**
 Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales.
+---
 
 ### ⚙️ **2.2) Analizador de Redes Eléctricas**
 
@@ -122,7 +123,8 @@ Controla y monitorea procesos industriales, comunica datos con sensores, actuado
 - Interfaz gráfica para monitorear procesos y enviar comandos.  
 - Pantalla táctil con alarmas y botones virtuales.  
 - Configurable desde TIA Portal.
-
+  
+---
 ### **2.5)Router Linksys Cisco**
 
 📸 **Imagen del dispositivo:**  
@@ -140,7 +142,7 @@ Controla y monitorea procesos industriales, comunica datos con sensores, actuado
 
 ---
 
-## ** 3) IPv4 e IPv6: Concepto, Características y Diferencias**
+##  3) IPv4 e IPv6: Concepto, Características y Diferencias
 
 ### 🔹 **IPv4 (Internet Protocol Version 4)**
 - Longitud: 32 bits.  
