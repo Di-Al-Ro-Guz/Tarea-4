@@ -69,7 +69,7 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
 - Modbus 
 - TCP/IP (software).
  
-**Características principales:**
+Características principales:
 Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales.
 ---
 
