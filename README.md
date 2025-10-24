@@ -1,6 +1,6 @@
 # Tarea 4: 
 ---
-### **Integrantes:**  - Camila Perez Mercado -Santiago Hernandes Avila -Diego Alejandro Rodríguez Guzmán  
+### **Integrantes:**  - Camila Perez Mercado - Santiago Hernandes Avila - Diego Alejandro Rodríguez Guzmán  
 ### Facultad de Ingeniería Electrónica  
 ### Universidad Santo Tomas  
 ---
