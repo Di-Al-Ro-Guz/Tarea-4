@@ -53,7 +53,7 @@ Estas nuevas categorías mejoran la **velocidad, sincronización y confiabilidad
 
 ---
 
-## ** 2️) Exploración de Dispositivos Encontrados en la Universidad**
+## 2️) Exploración de Dispositivos Encontrados en la Universidad
 
 A continuación, se detallan los dispositivos observados en el laboratorio, cada uno con su descripción, protocolo de comunicación y características principales.
 
@@ -69,8 +69,9 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
 - Modbus 
 - TCP/IP (software).
  
-Características principales:
+**Características principales:**
 Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales.
+
 ---
 
 ### ⚙️ **2.2) Analizador de Redes Eléctricas**
