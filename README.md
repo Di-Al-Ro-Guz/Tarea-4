@@ -57,9 +57,11 @@ Estas nuevas categorías mejoran la **velocidad, sincronización y confiabilidad
 
 A continuación, se detallan los dispositivos observados en el laboratorio, cada uno con su descripción, protocolo de comunicación y características principales.
 
-### **2.1) UP² Board (placa pequeña)**
+### ⚙️**2.1) UP² Board (placa pequeña)**
 📸 **Imagen del dispositivo:** 
 ![UP² Board](Placa_UP.jpg) 
+
+Computadora embebida tipo industrial (x86).
 
 **Protocolos de comunicación:** 
 - Ethernet
@@ -77,7 +79,9 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 ### ⚙️ **2.2) Analizador de Redes Eléctricas**
 
 📸 **Imagen del dispositivo:**  
-![Analizador de Redes](./Analisador_circutor.jpg)
+![Analizador de Redes](./Analizador_circutor.jpg)
+
+Ideal para medir consumo, potencia, corriente, tensión, y comunicarlo a un PLC o software de monitoreo.
 
 **Protocolos de comunicación:**  
 - Modbus RTU (RS-485)  
@@ -95,8 +99,10 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 ### ⚙️ **2.3) Analizador de Calidad Energética**
 
 📸 **Imagen del dispositivo:**  
-*(Colocar aquí la imagen frontal del analizador de calidad energética)*  
 ![Analizador de energía](./Analisador_calidad.jpg)
+
+Permite medir tensión, corriente, factor de potencia y armónicos. Comunicación serial con otros equipos o PC.
+
 **Protocolos de comunicación:**  
 - RS-485 (Modbus RTU)  
 - Ethernet (opcional según versión)  
@@ -114,6 +120,8 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 📸 **Imagen del dispositivo:**  
 ![Modulo de practicas PLC](./Modulo_PLC.jpg)
 
+Controlador lógico programable con HMI táctil.
+
 **Protocolos de comunicación:**  
 - Profinet 
 - Profibus 
@@ -129,10 +137,12 @@ Controla y monitorea procesos industriales, comunica datos con sensores, actuado
 - Configurable desde TIA Portal.
   
 ---
-### **2.5)Router Linksys Cisco**
+### ⚙️**2.5)Router Linksys Cisco
 
 📸 **Imagen del dispositivo:**  
 ![Linksys Cisco](./Router.jpg)
+
+Enrutador de red doméstico o de laboratorio.
 
 **Protocolos de comunicación:**  
 - Ethernet
@@ -140,9 +150,24 @@ Controla y monitorea procesos industriales, comunica datos con sensores, actuado
 - IPv4 / IPv6
 
 **Características principales:**  
-- Interfaz gráfica para monitorear procesos y enviar comandos.  
-- Pantalla táctil con alarmas y botones virtuales.  
-- Configurable desde TIA Portal.
+Permite interconectar dispositivos en red y acceso a internet, usado como infraestructura de red industrial local.
+
+---
+
+### ⚙️**2.6)Switch Cisco 48 puertos**
+
+📸 **Imagen del dispositivo:**  
+![Linksys Cisco](./Router.jpg)
+Conmutador de red para conectar múltiples dispositivos.
+
+**Protocolos de comunicación:**  
+- Ethernet
+- Profinet
+- Modbus TCP/IP
+(según configuración)
+
+**Características principales:**  
+Permite interconectar dispositivos en red y acceso a internet, usado como infraestructura de red industrial local.
 
 ---
 
