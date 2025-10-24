@@ -4,7 +4,7 @@
 - Camila Perez Mercado
 - Santiago Hernandes Avila
 - Diego Alejandro Rodríguez Guzmán  
-### Facultad de Ingeniería Electrónica  
+### Facultad de Ingeniería Electrónica  - Comunicaciones Industriales 
 ### Universidad Santo Tomas  
 ---
 ## 1) Vigilancia Tecnológica de Tecnologías Industriales
@@ -62,12 +62,12 @@ A continuación, se detallan los dispositivos observados en el laboratorio, cada
 ![Analizador de energía](./coloca_aqui_imagen4.jpg)
 
 **Protocolos de comunicación:** 
--Ethernet
--RS-485 
--USB
--GPIO
--Modbus 
--TCP/IP (software).
+- Ethernet
+- RS-485 
+- USB
+- GPIO
+- Modbus 
+- TCP/IP (software).
  
 **Características principales:**
 Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales.
@@ -114,11 +114,11 @@ Puede actuar como gateway o servidor IoT conectando PLCs y sensores industriales
 ![Analizador de energía](./coloca_aqui_imagen4.jpg)
 
 **Protocolos de comunicación:**  
--Profinet 
--Profibus 
--Ethernet/IP 
--Modbus 
--TCP/IP 
+- Profinet 
+- Profibus 
+- Ethernet/IP 
+- Modbus 
+- TCP/IP 
 (Cualquiera de estos mediante módulos) 
 
 **Características principales:**  
